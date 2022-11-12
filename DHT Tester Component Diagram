@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T08:33:46.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="UAUgUhoL2UmECwpa9PMJ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T08:34:12.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="S-uZ5snAwucSZCdrjB_Q" version="20.5.3" type="github">
   <diagram id="bgZS1HKOEdgdPdfd_cNJ" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1YsV4vrie2zxcJq-hckK-1" value="Khối xử lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1YsV4vrie2zxcJq-hckK-1" value="Khối xử lý" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="365" y="300" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1YsV4vrie2zxcJq-hckK-2" value="Khối hiển thị" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
